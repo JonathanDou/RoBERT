@@ -1,1 +1,3 @@
-Projected Gradient Descent on BERT for adversarial training and increasing robustness. 
+Projected Gradient Descent on BERT for adversarial training and increasing robustness.
+
+![alt text](https://github.com/JonathanDou/RoBERT/blob/master/accuracies.png?raw=true)
