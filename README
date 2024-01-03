@@ -1,4 +1,4 @@
-Projected Gradient Descent on BERT for adversarial training and increasing robustness. Signficantly BERT's improved accuracy against adversarial attacks after PGD training. 
+Projected Gradient Descent on BERT for adversarial training and increasing robustness. Signficantly improved BERT-base accuracy against adversarial attacks after PGD training. 
 
 Full paper here: https://github.com/JonathanDou/RoBERT/blob/main/robust.pdf
 
